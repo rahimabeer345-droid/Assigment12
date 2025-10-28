@@ -1,0 +1,5 @@
+alert("Error! Please enter a valid password")
+alert("Welcome to JS Land... Happy Coding")
+alert("Welcome to JS Land...")
+alert("Frevent this page creating addisonal dulog!")
+alert("Hello... ! can run JS through rey Web Srowder,s console")
